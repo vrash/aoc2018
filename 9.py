@@ -1,6 +1,4 @@
 from collections import deque
-import fileinput
-import re
 import time
 
 def winningScore(players, lastmarble):
